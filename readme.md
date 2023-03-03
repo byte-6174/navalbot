@@ -22,6 +22,8 @@ It is built using the following steps:
 `python3 run_navalbot.py`
 
 ## Some Interesting Responses
+I am sure there are much better ways to ask questions that would get much better responses. I am just tired writing all this code :(
+    
 ```
 Ask a question to NavalBot> what is love?
 NavalBot:  Love is a complex emotion that can be difficult to define. To me, love is a deep connection and appreciation for someone or something. 
