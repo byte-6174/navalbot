@@ -74,5 +74,3 @@ milktoasty stuff :(
 * [Eric Jorgenson](https://twitter.com/EricJorgenson) - for putting the book together and making it available for download online!
 * [Amjad Masad](https://twitter.com/amasad) - for [tweeting](https://twitter.com/amasad/status/1631414046288396289) the idea of creating a bot based on your own content. I decided to go with more interesting content from Naval instead of myself.
 ---
-
-*Remember, this is not real Naval speaking to you. Its a generative language model extracting patterns from the content given to it and generating and putting together a string of sentences. For ideas from real Naval check [here](https://nav.al/).
